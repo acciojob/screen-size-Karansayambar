@@ -1,4 +1,3 @@
-//your JS code here. If required.
 function updateSize(){
 	const widthElement = document.getElementById("width");
 	const heightElement = document.getElementById("height");
